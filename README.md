@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Yiming Luo, also [@Lingyu](https://github.com/Lingyu-Lingluo). I'm now a second-year undergraduate in the HIT-HKU Academy for the Talented at Harbin Institute of Technology, Harbin, China. I'm now majoring in Artificial Intelligence and my current research interests include MLLM, Agentic AI and Synthetic Data Generation.
+My name is Yiming Luo, also [@Lingyu](https://github.com/luoym-lym). I'm now a second-year undergraduate in the HIT-HKU Academy for the Talented at Harbin Institute of Technology, Harbin, China. I'm now majoring in Artificial Intelligence and my current research interests include MLLM, Agentic AI and Synthetic Data Generation.
 <!--
 **Lingyu-Lingluo/Lingyu-Lingluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
